@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: antiquewhite;
+}
+.nav-images {
+  width: 60%;
+}
+.nav-padding {
+  padding-right: 50px !important;
+}
