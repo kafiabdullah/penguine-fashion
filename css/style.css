@@ -37,3 +37,20 @@ header {
 }
 .profile-img {
 }
+.heading-text{
+  color: #664fb3;
+}
+.women-images{background-color: aliceblue;border-radius: 15px;}
+.women-images-top{}
+
+.women-card{
+    border: none;
+    border-radius: 15px;
+    width: 90%;
+    
+
+}
+.womer-card-images{
+  border: none !important;
+  border-radius: 15px !important;
+}
