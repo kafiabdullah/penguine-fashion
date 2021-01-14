@@ -41,7 +41,6 @@ header {
   color: #664fb3;
 }
 .women-images{background-color: aliceblue;border-radius: 15px;}
-.women-images-top{}
 
 .women-card{
     border: none;
@@ -54,3 +53,101 @@ header {
   border: none !important;
   border-radius: 15px !important;
 }
+
+
+
+/* extra work */
+footer{
+  background: #1f1e24;
+}
+.get-in{
+  color:  white;
+  padding: 100px 0;
+}
+.get-in h2{
+  margin-bottom: 40px;
+  font-weight:  600;
+  font-size: 35px;
+}
+.get-in p{
+  margin-top: 30px;
+}
+.get-in ul{
+  padding: 0;
+  margin: 0;
+  
+}
+.get-in ul li{
+  display: inline-block;
+  list-style:  none;
+  height:  50px;
+  width: 70px;
+  background: #1f1e24;
+  line-height:  50px;
+  font-size: 28px;
+  border: 2px solid #515151;
+  margin: 5px;
+}
+.get-in ul li i{
+  color:  white;
+}
+.btn-subscribe{
+  
+  border: 1px solid #515151;
+  margin-top: 25px;
+  
+  border-radius:  0;
+}
+.form-control2{
+  display: block;
+  width: 100%;
+  padding: .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #ffffff;
+  background-color: #464647;
+  background-clip: padding-box;
+  border: 1px solid #464647;
+  border-radius: 0;
+  transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  text-align:  center;
+}
+.get-in ul li:hover{
+  border-color:  red;
+}
+.copyright{
+  background: #464647;
+  text-align:  center;
+  
+}
+
+.btn-subscribe:focus{
+     outline: none;
+  box-shadow:  0 0 0;
+}
+.btn-style:hover{
+
+background: #455c51;
+}
+
+.women-images-top, .man-images-top {
+  height: 320px !important;
+}
+
+.shopping .card-body img {
+  width: 100px;
+    height: 100px;
+    margin-right: 15px;
+}
+
+
+.main-nav {
+  background-color:antiquewhite !important;
+}
+
+nav.navbar.main-menu {
+  background-color:antiquewhite !important;
+  margin-left: -12px;
+  margin-right: -12px;
+}
+
