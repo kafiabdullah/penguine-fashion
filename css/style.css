@@ -1,35 +1,39 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
-  header {
-    background-color: antiquewhite;
-  }
-  .nav-images {
-    width: 60%;
-  }
-  .nav-padding {
-    padding-right: 50px !important;
-  }
-.penguine-h1{
-      color: aqua;
-      font-weight: 700;
-      font-size: 60px;
-      text-transform: uppercase;
-  }
-.winter-h1{
-      color: cornflowerblue;
-      font-weight: 700;
-      font-size: 60px;
-      text-transform: uppercase;
-  
-  }
-.banner-section{
-    height: 600px;
-    background: antiquewhite;
+  margin: 0;
+  padding: 0;
 }
-.btn-color{
-    background: #76c27e;
-    font-size: 40px;
-    border-radius: 20px;
+body {
+  font-family: "Bebas Neue", cursive;
+}
+header {
+  background-color: antiquewhite;
+}
+.nav-images {
+  /* width: 60%; */
+}
+.nav-padding {
+  /* padding-right: 50px !important; */
+}
+.penguine-h1 {
+  color: aqua;
+  font-weight: 700;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+.winter-h1 {
+  color: cornflowerblue;
+  font-weight: 700;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+.banner-section {
+  /* height: 600px; */
+  background: antiquewhite;
+}
+.btn-color {
+  background: #76c27e !important;
+
+  border-radius: 10px !important;
+}
+.profile-img {
 }
